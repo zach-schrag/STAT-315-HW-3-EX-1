@@ -86,11 +86,7 @@ In the **Execute SQL** tab, do the following:
 
 ### Count & Filter
 
-Go back the **myDatabase**.
-
-### Report
-
-Create a PDF file reporting all the assignments (listed above) you hav completed in the course of this exercise. 
+Go back to the **myDatabase**.
 
 In the **Execute SQL** tab, do the following:
 
@@ -100,3 +96,7 @@ In the **Execute SQL** tab, do the following:
 4. Find the names of students that contains 's'
 5. Find all students based on the decreasing order of their points
 6. commit \("Count & Filter"\)
+
+### Report
+
+Create a PDF file reporting all the assignments (listed above) you hav completed in the course of this exercise. 
