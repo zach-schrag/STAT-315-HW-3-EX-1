@@ -99,4 +99,6 @@ In the **Execute SQL** tab, do the following:
 
 ### Report
 
-Create a PDF file reporting all the assignments (listed above) you hav completed in the course of this exercise. 
+1. Create a PDF file reporting all the assignments (listed above) you have completed in the course of this exercise.
+2. The report should include all relvant tables and brief annotations.
+3. Submit your PDF report on Canvas through "HW 3 Ex1" option. 
