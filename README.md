@@ -88,6 +88,10 @@ In the **Execute SQL** tab, do the following:
 
 Go back the **myDatabase**.
 
+### Report
+
+Create a PDF file reporting all the assignments (listed above) you hav completed in the course of this exercise. 
+
 In the **Execute SQL** tab, do the following:
 
 1. Find the person with the highest number of points in **students**
