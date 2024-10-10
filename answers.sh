@@ -62,3 +62,34 @@ SELECT employees.Company
 FROM employees
 WHERE employees.Role = 'Graphic Designer';
 # Snapchat is the company that has a Graphic Designer
+
+
+# Count and Filter
+# Find the person with the highest number of points in students
+SELECT Name, Points
+FROM students
+ORDER BY Points DESC
+LIMIT 1;
+# Robert
+
+# Find the average of points in students
+SELECT AVG(Points) AS AveragePoints
+FROM students;
+# 292.5
+
+# Find the number of students that have 500 points
+SELECT COUNT(*) AS NumberOfStudents
+FROM students
+WHERE Points = 500;
+# 2
+
+# Find the names of students that contains 's'
+SELECT Name
+FROM students
+WHERE Name LIKE '%s%';
+# Basma and Hasan
+
+# Find all students based on the decreasing order of their points
+SELECT *
+FROM students
+ORDER BY Points DESC;
